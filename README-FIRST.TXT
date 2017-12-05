@@ -30,17 +30,6 @@ of the script is a normal generated configlet. The script can be used asis
 or be changed to fit own needs and network.
 
 
-==============================
-Provision L2 EVPN w IRB v3.zip
-==============================
-
-The next generation configlet builder for L2 EVPN that builds configuration for a
-Tenant with VLAN and VXLAN. It also covers both IRB scenarios, symmetric and asymmetric.
-The output of the script is an empty generated configlet aswell as a static normal 
-configlet assigned to the device the configlet is executed for.
-The script can be used asis or be changed to fit own needs and network.
-
-
 ========================
 Provision L3 EVPN v2.zip
 ========================
