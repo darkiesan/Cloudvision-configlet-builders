@@ -49,15 +49,6 @@ A configlet builder that builds configuration for a Tenant with CE facing
 interface and VXLAN. The output of the script is a normal generated configlet.
 The script can be used asis or be changed to fit own needs and network.
 
-
-=====================
-Provision L3 EVPN.zip
-=====================
-
-The next generation configlet builder for L3 EVPN that builds configuration for a Tenant
-with CE facing interface and VXLAN. The output of the script is a normal generated configlet.
-The script can be used asis or be changed to fit own needs and network.
-
 =============================
 IPSEC tunnel provisioning.zip
 =============================
