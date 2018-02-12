@@ -21,7 +21,7 @@ A configlet builder that adds bse configuration for a MLAG pair. The script can 
 or be changed to fit own needs and network.
 
 ==============================
-Provision L2 EVPN w IRB v2.zip
+Provision L2 EVPN w IRB v4.zip
 ==============================
 
 A configlet builder that builds configuration for a Tenant with VLAN and VXLAN.
@@ -45,3 +45,12 @@ IPSEC tunnel provisioning.zip
 This first version of the configlet builder for IPSEC tunnel provisioning is most suitable for
 POC/demo. A better versionf or production environment will be coming. The script can be used asis
 or be changed to fit own needs and network.
+
+=================
+FabricBuilder.zip
+=================
+
+This first version of the configlet builder is intended to build an IP Fabric covering EVPN, HER and CVX use cases.
+The configlet builder can be used as is, or be modified to suite specific need. Any templates for the use cases
+can be altered in side the script. It is using the Template function from the string library and is thus easy to
+modify.
