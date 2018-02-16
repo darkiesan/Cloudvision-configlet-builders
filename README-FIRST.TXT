@@ -47,10 +47,10 @@ POC/demo. A better versionf or production environment will be coming. The script
 or be changed to fit own needs and network.
 
 =================
-FabricBuilder.zip
+FabricBuilderv2.zip
 =================
 
-This first version of the configlet builder is intended to build an IP Fabric covering EVPN, HER and CVX use cases.
+This configlet builder is intended to build an IP Fabric covering EVPN, HER and CVX use cases.
 The configlet builder can be used as is, or be modified to suite specific need. Any templates for the use cases
 can be altered in side the script. It is using the Template function from the string library and is thus easy to
 modify.
